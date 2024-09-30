@@ -1,6 +1,7 @@
 # FiveM Server Setup
 
 IMPORTANT : Script must be runned with elevated privileges to open ports
+Feel free to leave a star on the repository, it would be motivating :)
 
 ## Installation
 
